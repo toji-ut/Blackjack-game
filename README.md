@@ -1,8 +1,8 @@
 # Blackjack-game
 
 This is a simple text based Blackjack game written in Java
-|  ♠  |  ♣  |  ♥  |  ♦  |
 
+|  ♠  |  ♣  |  ♥  |  ♦  |
 
 **How to Play**
 

@@ -9,7 +9,7 @@ This is a simple text based Blackjack game written in Java
 If you wish to play the jar file and zip file are uploaded
 
 To run the jar file, download it, then in terminal/cmd change to the path directory of the file and execute the following line:
-# java -jar Blackjack-test-jar.jar
+**java -jar Blackjack-test-jar.jar
 
 Follow the instructions printed on the console to play the game.
 
